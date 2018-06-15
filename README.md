@@ -5,7 +5,7 @@ Links for live versions of the projects in Heroku :
 
 [NodeJs Project](https://asig5web322.herokuapp.com/)
 
-[React Project](https://asig5web322.herokuapp.com/)
+[React Project](https://safe-mesa-34064.herokuapp.com/projects)
 
 [Angular Project](https://assigangular.herokuapp.com/home)
 
